@@ -1,2 +1,2 @@
-# documentation
+# Documentation
 Documentation on various topics
