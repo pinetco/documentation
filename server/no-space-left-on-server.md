@@ -22,4 +22,6 @@
 - Run `du -hs * | sort -rh | head -5` to list out top 5 directories with largest size
 - Try to delete `php-fpm` log files
 - Try to delete `npm` or `yarn` log files
+- Run `sudo apt-get autoremove` to remove unused apt package files
+- Remove journal files `journalctl --vacuum-time=2s`
 
