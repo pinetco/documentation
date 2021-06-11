@@ -1,8 +1,8 @@
 # Firebase analytics In Flutter
 
 ## Plugin Needs
-[firebase_core: ^1.2.0] (https://pub.dev/packages/firebase_core)
-[firebase_analytics: ^8.1.0] (https://pub.dev/packages/firebase_analytics)
+[firebase_core: ^1.2.0](https://pub.dev/packages/firebase_core)
+[firebase_analytics: ^8.1.0](https://pub.dev/packages/firebase_analytics)
 
 ## main.dart
 ```bash
