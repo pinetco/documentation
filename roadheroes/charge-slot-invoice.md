@@ -1,8 +1,8 @@
-# Charge Slot Invoice
+## Charge Slot Invoice
 
-<img src="/roadheroes/images/charge-slot-invoice.png">
+![node](images/charge-slot-invoice.png)
 
-###Steps
+###Steps to generate slot invoice
 
 1. Find deal in the deals table by using `dealId`.
 2. Filter all transactions of with similar `amount`.
