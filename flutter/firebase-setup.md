@@ -2,11 +2,15 @@
 
 https://github.com/Nitingadhiya/firebase_app
 
-dependencies:
+
+#dependencies:
+ ```bash
  firebase_core: ^1.2.0 (https://pub.dev/packages/firebase_core)
  firebase_database: ^6.1.2 (https://pub.dev/packages/firebase_database)
+ ```
 
 # main.dart
+```bash
 import 'package:flutter/material.dart';
 import 'custom_data.dart';
 
@@ -18,9 +22,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(home: CustomData());
   }
 }
+```
 
 # custom_data.dart
-
+```bash
 `initalize firebase on init method`
 Helper().firebaseInitalize();
 
@@ -35,11 +40,11 @@ Helper().firebaseInitalize();
 
  `Delete Data`
  Helper().deletePress(_createTableRef, snapshot),
-
+```
 
 
 # utility / Helper.dart
-
+```bash
  dynamic firebaseInitalize() {
     final referenceDatase = FirebaseDatabase.instance;
     return referenceDatase.reference();
@@ -61,5 +66,6 @@ Helper().firebaseInitalize();
   deletePress(_createTableRef, snapshot) {
     _createTableRef.child(snapshot.key).remove();
   }
+```
 
 Note:- Please use stable version for flutter 
