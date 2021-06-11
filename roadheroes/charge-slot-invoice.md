@@ -1,6 +1,6 @@
 # Charge Slot Invoice
 
-<img src="/roadheroes/images/charge-slot-invoice.png">
+![node](images/charge-slot-invoice.png)
 
 ###Steps
 

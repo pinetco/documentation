@@ -7,11 +7,11 @@ https://myaccount.google.com/apppasswords?rapt=AEjHL4OKD2eWpf9IhjqbMYsslDbtLZdQA
   
 - select app and device to generate app password and click on generate.
 
-<img src="/laravel/images/select-app-and-device.png" />
+![node](images/select-app-and-device.png)
 
 - after clicking on generate, your `app_password` will be generated, just copy your `app_password` and store it on secure place, because once it will lost, you have to generate new `app_password`.
-  
-<img src="/laravel/images/app-password-generated.png" />
+
+![node](images/app-password-generated.png)
 
 - after that, update your project's mail env variables.
 ```phpregexp
