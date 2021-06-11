@@ -1,5 +1,6 @@
-# Autosuggestions setting in terminal
- [Document] (#https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
+# Autosuggestions setting in terminal 
+[Document](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
+
 ###Manual (Git Clone) 
 
 - Open terminal
