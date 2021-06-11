@@ -24,7 +24,7 @@
 2. Check to see if SSL certificate and key path is correct. LetsEncrypt is renewing licence auto on forge server, so old certificate path won't work with echo server.
     - Example of SSL path `/etc/nginx/ssl/example.com/966304/server.crt`
     - Go to SSL directory by executing `cd /etc/nginx/ssl/example.com`
-    - Replace latest directory number you see in path.
+    - Replace the latest directory number you see in path.
     - Restart Daemon from Forge.
 3. Stop the Daemon service from Forge and do the following:
     - SSH into server 
