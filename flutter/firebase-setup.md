@@ -3,7 +3,7 @@
 https://github.com/Nitingadhiya/firebase_app
 
 
-#dependencies:
+# dependencies:
  ```bash
  firebase_core: ^1.2.0 (https://pub.dev/packages/firebase_core)
  firebase_database: ^6.1.2 (https://pub.dev/packages/firebase_database)
