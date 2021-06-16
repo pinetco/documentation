@@ -1,4 +1,4 @@
-###Follow below steps to create customized deal.
+### Follow below steps to create customized deal.
 
 - get the requirements from the sales person. like, what they want to add or remove with pricing.
 - after getting all the required information, just update the meta object of the current deal.
