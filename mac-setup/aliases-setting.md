@@ -1,6 +1,6 @@
 # Aliases setting
 
-- Open iTerm
+- Open terminal
 - Create Aliases file with below command:
    ````
    vim ~/.aliases
