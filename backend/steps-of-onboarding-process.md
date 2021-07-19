@@ -17,7 +17,9 @@
 - Always make suggestions
 - Always be Prepare
 - What do you think
-- Maintain balance
+- Be Brave
+- Result is Important
+
 ##### 12) Share credential of Laracast & tell them to watch [mac setup series](https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch)
 ##### 13) watch series of [vs-code](https://laracasts.com/topics/vs-code) & [Ravibhai’s guidance on VsCode](https://drive.google.com/file/d/1FmJJLDIIamOgvEIVVd8LV8Dv-Z5LlD7U/view)
 ##### 14) series related to laravel 8
