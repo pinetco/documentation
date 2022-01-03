@@ -20,6 +20,8 @@
 - What do you think
 - Be Brave
 - Result is Important
+- Discipline
+- Maintain Balance
 
 ##### 11) Share credential of Laracast & tell them to watch [mac setup series](https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch)
 ##### 12) watch series of [vs-code](https://laracasts.com/topics/vs-code) & [Ravibhai’s guidance on VsCode](https://drive.google.com/file/d/1FmJJLDIIamOgvEIVVd8LV8Dv-Z5LlD7U/view)
