@@ -16,7 +16,7 @@
 - Ask your self
 - Extreme ownership
 - Always make suggestions
-- Always be Prepare
+- Always be Prepared
 - What do you think
 - Be Brave
 - Result is Important
