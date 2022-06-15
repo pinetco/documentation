@@ -21,6 +21,9 @@
 - Be Brave
 - Result is Important
 - Discipline
+    - Don't throw trash anywhere #cleanup
+    - Wear helmet while riding #ridetosafety
+    - etc...
 - Maintain Balance
 
 ##### 11) Share credential of Laracast & tell them to watch [mac setup series](https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch)
