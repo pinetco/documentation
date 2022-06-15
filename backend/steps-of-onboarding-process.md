@@ -21,7 +21,7 @@
 - Be Brave
 - Result is Important
 - Discipline
-    - Don't throw trash anywhere #cleanup
+    - Always throw garbage in dustbin #cleanup
     - Wear helmet while riding #ridetosafety
     - etc...
 - Maintain Balance
