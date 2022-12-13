@@ -12,17 +12,17 @@ docker pull mcr.microsoft.com/azure-sql-edge
 docker run --cap-add SYS_PTRACE -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=Password@123' -p 1433:1433 --name azuresqledge -d mcr.microsoft.com/azure-sql-edge
 ```
 - After successfully complete above command, you can see azuresqledge running 🚀
-  ![img.png](img.png)
+  ![img.png](images/docker-containers.png)
 
 - Go to Azure Data Studio
 - Go to new connection for mssql
-![img_1.png](img_1.png)
+![img_1.png](images/azure-data-studio.png)
 - Add new connection detail
   - Server: `localhost`
   - User name: `SA`
   - Password (as mentioned on above command): `Password@123`
     - Note: it must be 8 character. otherwise you can't connect it
-![img_2.png](img_2.png)
+![img_2.png](images/azure-data-studio-connection.png)
 
 ### Last steps for connect with laravel
 - Set following variable in your laravel project's .env
@@ -35,6 +35,6 @@ DB_USERNAME=SA
 DB_PASSWORD="Password@123"
 ```
 Now, you are good to go 
-![img_3.png](img_3.png)
+![img_3.png](images/migration-with-mssql.png)
 
 Thanks from [Pooja Jadav](https://github.com/PoojaJadav)
