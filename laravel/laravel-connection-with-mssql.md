@@ -24,7 +24,7 @@ docker run --cap-add SYS_PTRACE -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=Passwor
     - Note: it must be 8 character. otherwise you can't connect it
 ![img_2.png](images/azure-data-studio-connection.png)
 
-### Last steps for connect with laravel
+### Last step for connect with laravel
 - Set following variable in your laravel project's .env
 ```code 
 DB_CONNECTION=sqlsrv
