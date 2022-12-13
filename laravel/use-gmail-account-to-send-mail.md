@@ -1,4 +1,4 @@
-##Send Mails Using Gmail Account.
+## Send Mails Using Gmail Account.
 
 ### follow below steps to send email from the gmail account.
 
@@ -30,4 +30,3 @@ php artisan optimize
 ```
 
 
-  
