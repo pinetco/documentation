@@ -17,6 +17,15 @@ It can be install by CURL using below command
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+​
+If you encounter the error message 'Failed to connect to raw.githubusercontent.com port 443: Connection refused', follow these steps:
+1. Open the terminal.
+2. Type 'sudo nano /etc/hosts'.
+3. Add the following line at the end of the file: '185.199.108.133 raw.githubusercontent.com'.
+4. Save the file by pressing Control+O, then exit nano by pressing Control+X.
+5. Re-run the installation of oh-my-zsh.
+​
 ​
 ## Instaling PHPstorm
 ​
@@ -46,6 +55,7 @@ You can install Homebrew with the following command:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+    
 ​
 ​
 ## Install Composer, Git & PHP
